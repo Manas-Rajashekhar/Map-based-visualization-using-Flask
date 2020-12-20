@@ -1,0 +1,5 @@
+The following files and folder are part of the flask application
+static folder contains csss style sheet
+templates folder html files
+Venv  folder contains all python scripts required for the app
+app.py  main application

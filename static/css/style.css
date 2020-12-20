@@ -1,0 +1,26 @@
+body {
+    background-color:lightblue;
+
+}
+
+div {
+text-align: center;
+
+}
+.form-group{
+margin: 20px 10px;
+}
+
+.slidecontainer{
+text-align: center;
+
+}
+
+h1{
+text-align: center;
+
+}
+
+.form-group{
+width:100px
+}
