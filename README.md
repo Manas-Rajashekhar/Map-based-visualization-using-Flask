@@ -5,7 +5,7 @@
 
 DEMO IMAGES:  
 
-![](2.png)
+![](2.PNG)
 
 
 
