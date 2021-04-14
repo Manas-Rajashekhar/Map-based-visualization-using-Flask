@@ -8,7 +8,7 @@ DEMO IMAGES:
 ![](2.PNG)
 
 
-![](asthma app.PNG)
+![](asthma app.PN)
 
 
 
